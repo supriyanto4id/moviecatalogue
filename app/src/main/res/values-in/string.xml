@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="title_activity_bottom_nav">BottomNav</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv_show">Acara TV</string>
+    <string name="overiview">Ikhtisar</string>
+    <string name="cast">Pemeran</string>
+    <string name="action_bar_movie">Film</string>
+    <string name="action_bar_tv_show">Acara TV</string>
+    <string name="detail_movie">Detail Film</string>
+    <string name="detail_tv_show">Detail Acara TV</string>
+</resources>
